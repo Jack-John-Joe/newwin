@@ -1,0 +1,2 @@
+Process Manager manages "process-services", background utilities that are essential for windows.
+Similar to Windows Services and Systemd.

@@ -1,3 +1,4 @@
+workspace = { members = ["src/newwin-framework", "src/newwin-framework/PMF"] }
 [package]
 name = "newwin"
 version = "0.1.0"
